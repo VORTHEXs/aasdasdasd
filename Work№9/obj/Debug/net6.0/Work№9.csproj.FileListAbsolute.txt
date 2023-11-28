@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\Work№9\Work№9\bin\Debug\net6.0\Work№9.deps.json
+C:\Users\student\source\repos\Work№9\Work№9\bin\Debug\net6.0\Work№9.dll
+C:\Users\student\source\repos\Work№9\Work№9\bin\Debug\net6.0\Work№9.pdb
+C:\Users\student\source\repos\Work№9\Work№9\obj\Debug\net6.0\Work№9.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Work№9\Work№9\obj\Debug\net6.0\Work№9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Work№9\Work№9\obj\Debug\net6.0\Work№9.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Work№9\Work№9\obj\Debug\net6.0\Work№9.AssemblyInfo.cs
+C:\Users\student\source\repos\Work№9\Work№9\obj\Debug\net6.0\Work№9.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Work№9\Work№9\obj\Debug\net6.0\Work№9.dll
+C:\Users\student\source\repos\Work№9\Work№9\obj\Debug\net6.0\refint\Work№9.dll
+C:\Users\student\source\repos\Work№9\Work№9\obj\Debug\net6.0\Work№9.pdb
+C:\Users\student\source\repos\Work№9\Work№9\obj\Debug\net6.0\ref\Work№9.dll
